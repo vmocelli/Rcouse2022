@@ -3,4 +3,4 @@ y = 40*2 + rnorm(10,0,5)
 plot(x,y)
 summary(X)
 mean (X)
-
+fishface <- rnorm(100, 5, sd = 4)
